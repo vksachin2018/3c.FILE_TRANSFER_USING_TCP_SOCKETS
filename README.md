@@ -1,9 +1,8 @@
 # 3-C : CREATION FOR FILE TRANSFER USING TCP SOCKETS  
- 
 ### NAME: GOKUL SACHIN K
 ### ROLL NO : 212223220025
 ### DEPARTMENT: IT  
-### DATE:24\10\2024
+### DATE:7\10\2024
 
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links.
